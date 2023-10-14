@@ -1,0 +1,14 @@
+body{
+    background-color: #f5f5dc;
+}
+*{
+    font-family: monospace;
+}
+
+.photo{
+    display: inline;
+}
+
+#title{
+    font-family: 'Times';
+}
